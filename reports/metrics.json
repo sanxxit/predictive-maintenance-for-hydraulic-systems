@@ -1,0 +1,27 @@
+{
+    "Cooler_Condition": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0
+    },
+    "Valve_Condition": {
+        "accuracy": 0.9659863945578231,
+        "precision": 0.9661257078287865,
+        "recall": 0.9659863945578231
+    },
+    "Internal_Pump_Leakage": {
+        "accuracy": 0.9954648526077098,
+        "precision": 0.9955529137221231,
+        "recall": 0.9954648526077098
+    },
+    "Hydraulic_Accumulator": {
+        "accuracy": 0.9750566893424036,
+        "precision": 0.9760164633140841,
+        "recall": 0.9750566893424036
+    },
+    "Stable_Flag": {
+        "accuracy": 0.9682539682539683,
+        "precision": 0.9692084241103849,
+        "recall": 0.9682539682539683
+    }
+}
