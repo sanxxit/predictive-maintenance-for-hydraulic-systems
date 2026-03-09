@@ -104,4 +104,4 @@ Our current champion model (`RandomForestClassifier` with 100 estimators) demons
 - **Real-time Inference:** Expose the `trained_models/` payloads within a FastAPI microservice.
 
 ---
-*Maintained by the AI Platform Engineering Team.*
+*Maintained by the Sanchit*
