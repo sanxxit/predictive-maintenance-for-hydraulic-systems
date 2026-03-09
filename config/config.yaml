@@ -1,0 +1,7 @@
+data:
+  raw: \"data/raw/\"
+  processed: \"data/processed/\"
+  metadata: \"data/metadata/\"
+
+model:
+  save_path: \"models/trained_models/\"
